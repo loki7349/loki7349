@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">👋Aspiring developer with a knack for Java, SQL, JDBC, Hibernate, HTML, CSS, JavaScript, React.js, MySQL, Python, Git, and GitHub. Eager to kickstart my career in software development, I'm passionate about creating efficient, user-friendly solutions. Open to learning, collaborating, and contributing to innovative projects. Let's connect and explore the exciting world of coding together! 🚀 #TechEnthusiast #FresherInTech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loki7349&label=Profile%20views&color=0e75b6&style=flat" alt="loki7349" /> </p>
 
@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/lokesh14024815" target="blank"><img src="https://img.shields.io/twitter/follow/lokesh14024815?logo=twitter&style=for-the-badge" alt="lokesh14024815" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs**
+
+- 🤝 I’m looking for help with **Job Refferals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/loki7349](https://github.com/loki7349)
 
