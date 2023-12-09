@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/loki1234567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/loki1234567" height="30" width="40" /></a>
 <a href="https://twitter.com/lokesh14024815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokesh14024815" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lokeshbabchode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lokesh-5214a9194" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lokeshbabchode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lokeshbabchode/" height="30" width="40" /></a>
 <a href="https://instagram.com/iam._lokii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam._lokii" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/iit-loki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iit-loki" height="30" width="40" /></a>
 </p>
